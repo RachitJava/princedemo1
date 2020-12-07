@@ -16,7 +16,7 @@ public class Princedemo1Application {
 	@RequestMapping("/")
 	@ResponseBody
 	String hello() {
-		return "Hello World from e4developer!";
+		return "Hello World from Prince!";
 	}
 
 	public static void main(String[] args) {
